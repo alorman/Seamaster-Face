@@ -1,6 +1,6 @@
 # Seamaster-Face
 
-## Fabricatio Notes
+## Fabrication Notes
 28mm x 28mm
 0.4mm Thickness
 Matte Black / White Silkscreen
