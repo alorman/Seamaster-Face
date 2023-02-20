@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "Exports/Gerbers/With-Holes/"))
+      (outputdirectory "Exports/Gerbers/With-Holes/Rev01/"))
   )
 
   (net 0 "")
@@ -919,7 +919,7 @@
   (gr_line (start 148.0185 62.6745) (end 148.0185 91.8845) (layer B.SilkS) (width 0.0635))
   (gr_circle (center 148.0439 76.4921) (end 161.7091 76.4921) (layer Edge.Cuts) (width 0.01))
 
-  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 63F3DDD1) (hatch edge 0.508)
     (connect_pads yes (clearance 0.0254))
     (min_thickness 0.0254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
