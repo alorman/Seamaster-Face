@@ -23,7 +23,7 @@ I then laid out vectors for the outline, indexes et al in Illustrator.
 ![](img/illustrator.PNG)
 
 I moved these vectors into KiCad 6 (at the time), added a few features and sent it to fabrication.
-KiCad files are [here](PCB/Readme.md). I prototyped two versions, one with holes at the indexes, one without. I wasn't sure which one would be better for hand lume. It turned out that the one with circles cut out were.  
+[KiCad files are here](https://github.com/alorman/Seamaster-Face/tree/main/PCB). I prototyped two versions, one with holes at the indexes, one without. I wasn't sure which one would be better for hand lume. It turned out that the one with circles cut out were.  
 The vertical lines were added to make alignment on the movement easier. 
 ![](img/seamaster-face-back.jpg) ![](img/seamaster-face-front.jpg)
 
