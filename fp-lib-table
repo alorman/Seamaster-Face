@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name _seamaster-face)(type KiCad)(uri ${KIPRJMOD}/custom-components/seamaster-face.pretty)(options "")(descr ""))
-)
